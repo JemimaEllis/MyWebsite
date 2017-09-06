@@ -1,0 +1,103 @@
+body {
+	background-image: url('images/girlraingif.gif');
+	background-repeat: repeat-x;
+	background-color: black;
+}
+
+#body1 {
+	background-color: black;
+	background-image: none;
+}
+
+.qualificationstext {
+	color: white;
+	text-align: left;
+	margin: left;
+	list-style: square;
+	font-size: 20px;
+}
+
+.qualificationstext li {
+	margin-left: 100px;
+	color: white;
+}
+
+mark {
+	background-color: black;
+	color: hotpink;
+}
+
+#head li{
+    display: inline-block;
+    padding: 0 10%;
+}
+
+#head a, #head a:visited{
+	color: hotpink;
+}
+
+
+#years {
+    display: inline-block;
+    text-align: left;
+    color: white;
+
+}
+
+h2 {
+	color: white;
+	margin-left: 44.5%;
+}
+
+#header {
+	display: inline-block;
+	border: solid 1px hotpink;
+	margin: 0 auto;
+	background-color: black;
+	color: white;
+	width: 100%;
+}
+
+
+
+#me {
+	 display: inline-block;
+	 width: 260px;
+	margin-top: 20px;
+	margin-left: 40%;
+
+}
+
+#title {
+	display: inline-block;
+	font-size: 25px;
+	color: black;
+	font-family: Chalkduster;
+	vertical-align: top;
+	padding-top: 180px;
+	padding-left: 100px;
+
+}
+
+.qualifications h1 {
+color: white;
+}
+
+#qualificationstext h1 {
+color: white;
+}
+
+#container1 {
+}
+
+#about {
+	color: white;
+	text-align: center;
+	padding-left: 100px;
+	padding-right: 100px;
+	font-size: 20px;
+}
+
+
+
+
